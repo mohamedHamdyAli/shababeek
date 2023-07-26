@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539680045243",
+    "firebase_url": "https://shababeknew-f3ca8-default-rtdb.firebaseio.com",
+    "project_id": "shababeknew-f3ca8",
+    "storage_bucket": "shababeknew-f3ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539680045243:android:1a5166f8610f289ce8919e",
+        "android_client_info": {
+          "package_name": "com.nahrdev.shababek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539680045243-blaopm2c3jd2jge9cbppnvqvidq4cd37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nahrdev.shababek",
+            "certificate_hash": "2e5e0c5b3ff4e576dda00d7b012a992df5170a44"
+          }
+        },
+        {
+          "client_id": "539680045243-qt37gj3qm6hvmbao3am3utt31fd6r8b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQY8mnCMEkhBtyNWt2SuM1itHegk2tp_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539680045243-qt37gj3qm6hvmbao3am3utt31fd6r8b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

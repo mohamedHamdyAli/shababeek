@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>539680045243-88n7c3g4d03t3gj74k1j4orsro70dnat.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539680045243-88n7c3g4d03t3gj74k1j4orsro70dnat</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>539680045243-blaopm2c3jd2jge9cbppnvqvidq4cd37.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDByOcKiDE8nXRO7HPA-q9RaxgZ_lcgOmY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539680045243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nahrdev.shababeek</string>
+	<key>PROJECT_ID</key>
+	<string>shababeknew-f3ca8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shababeknew-f3ca8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539680045243:ios:10bc9af5f8dab26be8919e</string>
+	<key>DATABASE_URL</key>
+	<string>https://shababeknew-f3ca8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
